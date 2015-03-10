@@ -1,0 +1,11 @@
+{
+  "name": "whats-hot-on-flowdoc",
+  "version": "0.0.1",
+  "description": "A chrome extension to count and show the number of messages per flow",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ismael.stahelin@arctouch.com",
+  "license": "MIT"
+}
