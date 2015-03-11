@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "What's Hot on Flowdoc",
+  "name": "What's Hot on Flowdock", 
   "version": "0.0.1",
 	"author": "Ismael Stahelin",
   "description": "Show the number of messages on the flows during today",
@@ -14,7 +14,7 @@
 	},
 	"browser_action": {
 		"default_icon": "images/icon-128.png",
-    "default_title": "What's Hot on Flowdoc",
+    "default_title": "What's Hot on Flowdock",
     "default_popup": "popup.html"
 	},
 	"options_page": "options.html"

@@ -1,5 +1,5 @@
 {
-  "name": "whats-hot-on-flowdoc",
+  "name": "whats-hot-on-flowdock",
   "version": "0.0.1",
   "description": "A chrome extension to count and show the number of messages per flow",
   "main": "main.js",
