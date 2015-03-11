@@ -14,6 +14,12 @@ A chrome extension that lets users know what is the flow with the higher number 
 
 ### Screenshots
 
+![Installed](https://raw.github.com/arctouch-ismaelstahelin/whats-hot-on-flowdoc/master/screenshots/installed.png)
+
+![Options Page](https://raw.github.com/arctouch-ismaelstahelin/whats-hot-on-flowdoc/master/screenshots/options_page.png)
+
+![Browser Action](https://raw.github.com/arctouch-ismaelstahelin/whats-hot-on-flowdoc/master/screenshots/browser_action.png)
+
 ### References
 
 [Getting Started: Building a Chrome Extension](https://developer.chrome.com/extensions/getstarted)
