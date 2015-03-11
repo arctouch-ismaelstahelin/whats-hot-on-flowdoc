@@ -1,0 +1,60 @@
+html,
+body {
+  padding: 0px;
+  margin: 0px;
+  font-family: Helvetica, Arial;
+  background-color: #f0f0f0;
+}
+#content h1,
+#content h2 {
+  color: gray;
+}
+#content .title {
+  text-align: center;
+}
+#content .title h1 {
+  display: inline-block;
+  padding-left: 32px;
+  background-image: url('../images/icon-48.png');
+  background-repeat: no-repeat;
+  background-size: 32px 32px;
+  background-position: center left;
+}
+#content .options {
+  margin: 0 auto;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: white;
+  width: 60%;
+  padding: 20px;
+}
+#content .options #message {
+  display: none;
+  text-align: center;
+  color: green;
+}
+#content .options .section {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#content .options .section h3 {
+  display: inline-block;
+  font-size: 14px;
+  width: 40%;
+}
+#content .options .section input[type="text"] {
+  display: inline-block;
+  width: 50%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  font-weight: bold;
+  font-size: 12px;
+}
+#content #copyright {
+  text-align: center;
+  color: #777777;
+  font-size: 12px;
+  margin-top: 20px;
+  font-weight: 300;
+}

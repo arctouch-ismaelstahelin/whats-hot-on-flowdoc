@@ -1,0 +1,68 @@
+html, body {
+  padding: 0px;
+  margin: 0px;
+  font-family: Helvetica, Arial;
+  font-size: 12px;
+	width: 250px;
+	background-color: #f0f0f0;
+}
+#container {
+	padding-top: 10px;
+	padding-bottom: 5px;
+  .title {
+    font-size: 0.6em;
+		font-family: Verdana;
+    text-align: center;
+		margin-bottom: 10px;
+		h1 {
+			margin: 0px;
+			display: inline-block;
+      padding-left: 22px;
+      background-image: url('../images/icon-48.png');
+      background-repeat: no-repeat;
+      background-size: 20px 20px;
+      background-position: center left;
+		}
+  }
+  .list {
+    width: 250px;
+    margin: 0 auto;
+		text-align: center;
+		.warn {
+			margin: 5px;
+			color: red;
+			font-weight: bold;
+			a {
+				color: red;
+				user-select: none;
+				outline: none;
+			}
+		}
+    .flow {
+      display: inline-block;
+      border: 1px solid #ccc;
+      border-radius: 3px;
+      font-weight: bold;
+      margin-bottom: 5px;
+			background-color: #fff;
+      .name {
+        display: inline-block;
+        min-width: 180px;
+        padding: 5px;
+				text-align: left;
+				cursor: pointer;
+				a {
+					text-decoration: none;
+					color: black;
+				}
+      }
+      .count {
+        display: inline-block;
+        border-left: 1px solid #ccc;
+        min-width: 20px;
+        padding: 5px;
+        text-align: center;
+      }
+    }
+  }
+}
