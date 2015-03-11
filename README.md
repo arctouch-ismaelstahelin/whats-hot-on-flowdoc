@@ -29,3 +29,7 @@ A chrome extension that lets users know what is the flow with the higher number 
 ### References
 
 [Getting Started: Building a Chrome Extension](https://developer.chrome.com/extensions/getstarted)
+
+[Chrome APIs Documentation](https://developer.chrome.com/extensions/api_index)
+
+[Chrome Web Store](https://chrome.google.com/webstore/category/apps)
